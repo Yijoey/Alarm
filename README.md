@@ -1,6 +1,6 @@
 # Alarm
 
-![Alt text](images.jpeg)
+![Alt text](diagram-gmm.jpg)
 
 | Scenario | set time and alarm |     ||
 | ------------- |:-------------:| ----:|-----:|
